@@ -2,7 +2,7 @@
 
 echo "Git profile configuration"
 
-echo "Enter your username"
+echo "Enter your username
 read user
 
 if [[ "$user" =~ ^[A-Za-z_][A-Za-z0-9_] ]];then
